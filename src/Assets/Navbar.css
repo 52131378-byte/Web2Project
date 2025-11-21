@@ -1,0 +1,31 @@
+.navbar{
+    background-color: rgb(14, 169, 14);
+    color: black;
+    padding: 10 px 20 px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 15cap;
+}
+.title{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar a {
+    color: white;
+    text-decoration: none ;
+    margin-left: 15px;
+}
+.navbar a:hover{
+    background-color: rgb(240, 36, 36);
+    color: white;
+}
+.logo {
+    font-weight: bold;
+    align-items: center;
+    font-size: 30;
+}
+.smile-logo{
+    height: 100px;
+    margin: 100px;
+}
