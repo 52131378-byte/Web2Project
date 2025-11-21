@@ -10,7 +10,9 @@ export default function Navbar(){
     <Link to= "/contact">ContactUs</Link>
     <Link to= "/cart" className="cart-link">Cart ({})</Link>
 </div>
-<h1></h1>
+
+
+<h2></h2>
         </nav>
     )
 }
