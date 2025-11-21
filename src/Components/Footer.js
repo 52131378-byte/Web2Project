@@ -1,8 +1,10 @@
+import'..Assets/Footer.css';
 import {FaInstagram , FaFacebbok , FaWhatsapp} from 'react-icons/fa'
 export default function Footer(){
     return(
         <footer className="footer">
             <div className="footer-content">
+                <p>© 2025 SmileBar. All right reserved </p>
                 <div className="social-icons">
                     <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
                     <FaInstagram/>
